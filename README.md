@@ -7,7 +7,7 @@ Until one player has no lives left to live.
 ## Project Roadmap File
 [Project roadmp Google Doc Link](https://docs.google.com/document/d/1h5dH1xrl7ESKZ7Nv1CJ0XY49-CXziwvpjDodslxHL-k/edit?usp=sharing)
 
-##MIT Licence
+## MIT Licence
 
 Copyright 2021 Shirin Kazerooni
 
